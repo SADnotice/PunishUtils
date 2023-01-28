@@ -1,0 +1,6 @@
+name: InfornosPunish
+main: alexjd.com.infernusnetwork.punish.Main
+version: 20.09.20
+author: AlexJD
+commands:
+  punir:

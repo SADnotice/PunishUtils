@@ -1,0 +1,6 @@
+name: WizardPunish
+main: com.wizard.alexjd.punish.Core
+version: 20.09.20
+authors: [Wizard, AlexJD]
+commands:
+  punir:

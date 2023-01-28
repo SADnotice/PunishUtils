@@ -1,0 +1,34 @@
+Select:
+  ban:
+    name: '&aBan'
+    id: '339:0'
+    lore:
+      - '&7Clique para ver as opções'
+  mute:
+    name: '&aMute'
+    id: '339:0'
+    lore:
+      - '&7Clique para ver as opções'
+
+Mute:
+  rows: 3
+  type:
+    type1:
+      id: '339:0'
+      name: '&aDivulgação'
+      command: 'mute %player% 10m Divulgação'
+      slot: 10
+      permission: 'mute.divulgacao'
+      lore:
+        - '&7Clique para aplicar a punição.'
+Ban:
+  rows: 3
+  type:
+    type1:
+      id: '339:0'
+      name: '&aDivulgação'
+      command: 'ban %player% Divulgação'
+      slot: 10
+      permission: 'mute.divulgacao'
+      lore:
+        - '&7Clique para aplicar a punição.'
